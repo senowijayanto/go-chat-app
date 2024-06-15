@@ -1,6 +1,3 @@
-Sure! Below is a `README.md` file that describes the application, its stack, and instructions on how to run it.
-
-```markdown
 # Real-Time Chat Application with Redis Pub/Sub, Golang, and WebSocket
 
 ## Description
