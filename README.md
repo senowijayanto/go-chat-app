@@ -79,8 +79,6 @@ To simulate interactions between multiple users:
 ## Code Structure
 
 - **main.go**: The main server file that sets up the HTTP routes and WebSocket connections.
-- **publisher.go**: (Optional) A separate file to simulate server-side message publishing.
-- **subscriber.go**: (Optional) A separate file to simulate server-side message subscription.
 - **web/**: The directory containing frontend files (HTML, CSS, JavaScript).
 
 ## Additional Notes
