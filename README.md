@@ -46,7 +46,7 @@ Keep this terminal window open while you proceed with the next steps.
 
 ### Run the Golang Server
 
-Open a new terminal window or tab, navigate to the directory where your Golang files (`main.go`, `publisher.go`, `subscriber.go`) are located, and run:
+Open a new terminal window or tab, navigate to the directory where your Golang files (`main.go`) are located, and run:
 ```bash
 go run main.go
 ```
