@@ -85,11 +85,3 @@ To simulate interactions between multiple users:
 
 - **Error Handling**: Implement error handling and validation for username input and message sending to improve user experience.
 - **Enhancements**: Consider adding features such as message timestamps, user authentication, multiple chat rooms, or message persistence for a more robust application.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Summary
-
-This `README.md` file provides an overview of the application, including its description, tech stack, installation steps, and detailed instructions on how to run it. You can modify the repository URL and any other specific details to fit your project.
